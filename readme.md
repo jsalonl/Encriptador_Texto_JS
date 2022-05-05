@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como el primer challenge para el programa Oracle 
 
 
 
-Puedes ver el demo en este link: [Ir al Demo](https://github.com/jsalonl/Encriptador_Texto_JS/)
+Puedes ver el demo en este link: [Ir al Demo](https://jsalonl.github.io/Encriptador_Texto_JS/)
 
 Versión de escritorio
 
