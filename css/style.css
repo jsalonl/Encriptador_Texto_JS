@@ -140,6 +140,10 @@ main{
 	resize: none;
 }
 
+.input-text::placeholder{
+	color: #0A3871;
+}
+
 .info-text{
 	display: flex;
 	font-size: 12px;
