@@ -10,10 +10,10 @@ Puedes ver el demo en este link: [Ir al Demo](https://github.com/jsalonl/Encript
 
 Versión de escritorio
 
-![1.jpeg](C:\Users\Salomon-Dev\Desktop\OracleOne\Challenge1\docs\1.jpeg)
+![1.jpeg](https://github.com/jsalonl/Encriptador_Texto_JS/blob/main/docs/1.jpeg)
 
 Versión móvil
 
-![2.jpeg](C:\Users\Salomon-Dev\Desktop\OracleOne\Challenge1\docs\2.jpeg)
+![2.jpeg](https://github.com/jsalonl/Encriptador_Texto_JS/blob/main/docs/2.jpeg)
 
 
